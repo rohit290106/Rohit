@@ -24,4 +24,19 @@ cd ..=to exit from the current folder
 
 mkdir=to create new folder
 
+git init=initialize git respiratory 
+
+git remote add origin=to save folder in respiratory 
+
+git remote -v=to see origin in github
+
+git branch= to check branch
+
+git brach -M <name> =to change branch name
+
+git checkout -b <branchname>=to create new branch
+
+git checkout <name>=go in name branch
+
+git branch -d <name>=to delete name branch
  
