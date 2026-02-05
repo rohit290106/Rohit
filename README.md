@@ -40,3 +40,8 @@ git checkout <name>=go in name branch
 
 git branch -d <name>=to delete name branch
  
+git diff <branch name>=to compare commits,branches,files & more
+
+git merge<branch name>=to merge 2 branches
+
+git pull origin main=to transfer data from github to studio
