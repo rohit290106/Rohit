@@ -40,3 +40,7 @@ git checkout <name>=go in name branch
 
 git branch -d <name>=to delete name branch
  
+git diff <other branch name>=to show diff between branch
+
+git merge <other branch name>=To merge branches
+
