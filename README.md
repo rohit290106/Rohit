@@ -51,3 +51,7 @@ git reset=to reset changes in all file
 git reset head~1=to reset last change after comment (delete last comment)
 
 git log=to see all comments
+
+git reset <"hash of comment">=to go that hash comment and remove other comment who come after that
+
+git reset --hard <"Hash commit">=to go that hash comment and remove other comment who come after that and also remove the changes from studio
