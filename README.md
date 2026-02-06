@@ -44,4 +44,7 @@ git diff <"other branch name">=to show diff between branch
 
 git merge <"other branch name">=To merge branches
 
+git reset <"File name">= to reset changes in particuar file
+
+git reset=to reset changes in all file
 
