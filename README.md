@@ -48,3 +48,6 @@ git reset <"File name">= to reset changes in particuar file
 
 git reset=to reset changes in all file
 
+git reset head~1=to reset last change after comment (delete last comment)
+
+git log=to see all comments
