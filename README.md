@@ -4,7 +4,7 @@ rohir
 
 git clone respitory https =link to go in respitory 
 
-cd <respiratory name> =to go in respitory 
+cd <"respiratory name"> =to go in respitory 
 
 ls =to show files in a respiratory
 
@@ -12,7 +12,7 @@ ls- Force=To show all hidden files in a respiratory
 
 git status= to show details of file
 
-git add <-file name->=Adds new or changed files in your working directory to the git staging area.
+git add <"file name">=Adds new or changed files in your working directory to the git staging area.
 
 get add .=to save all files and content in files
 
@@ -32,16 +32,16 @@ git remote -v=to see origin in github
 
 git branch= to check branch
 
-git brach -M <name> =to change branch name
+git brach -M <"name"> =to change branch name
 
-git checkout -b <branchname>=to create new branch
+git checkout -b <"branchname">=to create new branch
 
-git checkout <name>=go in name branch
+git checkout <"name">=go in name branch
 
-git branch -d <name>=to delete name branch
+git branch -d <"name">=to delete name branch
  
-git diff <other branch name>=to show diff between branch
+git diff <"other branch name">=to show diff between branch
 
-git merge <other branch name>=To merge branches
+git merge <"other branch name">=To merge branches
 
 
