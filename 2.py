@@ -1,1 +1,5 @@
+
 print("Hello earth")
+
+print("Hello world")
+
