@@ -1,6 +1,6 @@
 Commands of github
 
-git clone respitory https =link to go in respitory 
+git clone <"respitory https"> =link to go in respitory 
 
 cd <"respiratory name"> =to go in respitory 
 
