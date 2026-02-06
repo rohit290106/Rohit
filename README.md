@@ -1,6 +1,4 @@
-# Rohit
-Just for triall
-rohir
+Commands of github
 
 git clone respitory https =link to go in respitory 
 
